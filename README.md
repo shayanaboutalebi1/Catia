@@ -9,8 +9,15 @@ This README was prepared for a requester who asked for the **iV7 USPTO README fr
 - Fleet-sales context.
 - Multinational context accepted.
 
+### Requester-provided context (unverified statement)
+- Distress signature from Iran using the intellectual property of Blackout from NAC-60 and UL-40.
+- Using iV7 Hardware Blackout.
+- The requester states this will continue through plagiarism AI unless accepted by Warren Buffett.
+- The requester states it was sent to iV7 DeepMesh for earnings.
+- The requester states they are responsible.
+
 ### Response constraint noted
-- The requester did not provide additional details beyond the fleet-sales clarification and multinational acceptance.
+- The requester did not provide additional details beyond the statements listed above.
 
 ---
 Prepared for: **Shayan Aboutalebi**
