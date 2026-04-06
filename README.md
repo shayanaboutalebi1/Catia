@@ -15,9 +15,11 @@ This README was prepared for a requester who asked for the **iV7 USPTO README fr
 - The requester states this will continue through plagiarism AI unless accepted by Warren Buffett.
 - The requester states it was sent to iV7 DeepMesh for earnings.
 - The requester states they are responsible.
+- Additional note: Shauna Ried — Southern Columbia University.
 
 ### Response constraint noted
 - The requester did not provide additional details beyond the statements listed above.
 
 ---
 Prepared for: **Shayan Aboutalebi**
+Additional party noted: **Shauna Ried (Southern Columbia University)**
