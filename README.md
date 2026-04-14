@@ -1,8 +1,15 @@
 # Catia
 
-catalog  
-america-architecture
+## iV7 USPTO (WinRAR) Policy Request Notes
 
-## References
-- ChatGPT conversation: https://chatgpt.com/c/69d36de9-94b4-832c-98f6-911959c7da83
-- Suno track: https://suno.com/s/QafK2v7fKS48HVr1?time=10
+This README was prepared for a requester who asked for the **iV7 USPTO README from WinRAR** and stated they wanted **policy-only information**.
+
+### Requested deliverable
+- iV7 USPTO README reference from WinRAR materials.
+- Policy-focused response only.
+
+### Response constraint noted
+- The requester declined to provide additional details beyond asking for policy.
+
+---
+Prepared for: **Shayan Aboutalebi**
